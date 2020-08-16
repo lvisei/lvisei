@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-<div>
 <a href="https://juejin.im/user/1926000101565774">
   <img align="left" alt="liuvigongzuoshi | juejin" width="40px" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg" />
 </a>
@@ -9,7 +8,8 @@
 <a href="https://github.com/liuvigongzuoshi/blog">
   <img align="left" alt="liuvigongzuoshi | blog" width="40px" src="https://user-images.githubusercontent.com/26923747/90339043-b9436b00-e020-11ea-9135-2992831cc4ae.png" />
 </a>
-<div/>
+
+<br/>
 
 - 🔭 I’m currently working on [GIS Data](https://www.gis-data.cn/)
 - 🌱 I’m currently learning WebGL & Go Web
