@@ -1,3 +1,7 @@
+<p align="right" style="width: 400px;">
+<img align="right" src="https://user-images.githubusercontent.com/26923747/94355127-00a72780-00b4-11eb-8aa0-a239d59305f4.gif" style="width: 400px;" />
+</p>
+
 ### Hi there 👋
 
 
