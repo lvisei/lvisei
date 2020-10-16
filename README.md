@@ -10,15 +10,18 @@
 </a>
 
 <a href="https://github.com/liuvigongzuoshi/blog">
-  <img align="left" alt="liuvigongzuoshi | blog" width="40px" src="https://user-images.githubusercontent.com/26923747/90339043-b9436b00-e020-11ea-9135-2992831cc4ae.png" />
+  <img align="left" alt="liuvigongzuoshi | blog" width="100px" src="https://user-images.githubusercontent.com/26923747/96274340-f74e1280-1002-11eb-9e42-13bdc4ae1d16.png" />
+  <!--
+  <img align="left" alt="liuvigongzuoshi | blog" width="40px" src="https://user-images.githubusercontent.com/26923747/90339043-b9436b00-e020-11ea-9135-       2992831cc4ae.png" />
+  -->
 </a>
 
 <br/>
 
-- 🔭 I’m currently working on [GIS DATA](https://www.gis-data.cn/)
-- 🌱 I’m currently learning WebGL & Go Web
-- 👯 I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template)
-- 📫 How to reach me: WeChat ID WX_158334860
+<!-- 🔭  I’m currently working on [GIS DATA](https://www.gis-data.cn/) -->
+- 🌱  I’m currently learning WebGL & Go Web
+- 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template)
+- 📫  How to reach me: WeChat ID WX_158334860
 
 <!--
 - 🤔 I’m looking for help with ...
