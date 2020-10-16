@@ -1,12 +1,7 @@
-<p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/26923747/94355127-00a72780-00b4-11eb-8aa0-a239d59305f4.gif" />
-</p>
-
-### Hi there 👋
-
+<img align="right" width="480px" src="https://user-images.githubusercontent.com/26923747/94355127-00a72780-00b4-11eb-8aa0-a239d59305f4.gif" />
 
 <a href="https://juejin.im/user/1926000101565774">
-  <img align="left" alt="liuvigongzuoshi | juejin" width="40px" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg" />
+  <img align="left" alt="liuvigongzuoshi | juejin" width="45px" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg" />
 </a>
 
 <a href="https://github.com/liuvigongzuoshi/blog">
@@ -16,9 +11,12 @@
   -->
 </a>
 
-<br/>
+<br>
+
+### Hi there 👋
 
 <!-- 🔭  I’m currently working on [GIS DATA](https://www.gis-data.cn/) -->
+
 - 🌱  I’m currently learning WebGL & Go Web
 - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template)
 - 📫  How to reach me: WeChat ID WX_158334860
