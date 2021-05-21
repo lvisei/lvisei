@@ -15,10 +15,9 @@
 
 ### Hi there 👋
 
-<!-- 🔭  I’m currently working on [GIS DATA](https://www.gis-data.cn/) -->
-
-- 🌱  I’m currently learning WebGL & Go Web
-- 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template)
+- 🔭  I’m currently working on @alipay
+- 🌱  I’m currently learning WebGL & Go GUI
+<!-- - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template) -->
 - 📫  How to reach me: WeChat ID WX_158334860
 
 <!--
