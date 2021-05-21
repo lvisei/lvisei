@@ -18,7 +18,7 @@
 - 🔭  I’m currently working on Alipay
 - 🌱  I’m currently learning WebGL & Go Graphical
 - 💬  WeChat: `WX_158334860`
-- 📫  Email: [foxmail](mailto:liuvigongzuoshi@foxmail.com)
+- 📫  Email: [Foxmail](mailto:liuvigongzuoshi@foxmail.com)
 <!-- - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template) -->
 
 <!--
