@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-- 🔭  I’m currently working on Alipay
+- 🔭  I’m currently working on GIS Data Visualization
 - 🌱  I’m currently learning WebGL & Go Graphical
 - 💬  WeChat: `WX_158334860`
 - 📫  Email: [Foxmail](mailto:liuvigongzuoshi@foxmail.com)
