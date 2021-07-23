@@ -16,7 +16,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working on GIS Data Visualization
-- 🌱  I’m currently learning WebGL & Go Graphical
+- 🌱  I’m now passionate about Graphics & Go Concurrency
 - 💬  WeChat: `WX_158334860`
 - 📫  Email: [Foxmail](mailto:liuvigongzuoshi@foxmail.com)
 <!-- - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/liuvigongzuoshi/vue-iview-admin-template) & [gin-admin-template](https://github.com/liuvigongzuoshi/gin-admin-template) -->
