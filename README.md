@@ -15,7 +15,7 @@
 
 ### Hi there 👋
 
-- 🔭  I’m currently working on GIS Data Visualization
+- 🔭  I’m currently working on Geospatial Visualization
 - 🌱  I’m now passionate about Graphics & Go Concurrency
 - 💬  WeChat: `WX_158334860`
 - 📫  Email: [Foxmail](mailto:liuvigongzuoshi@foxmail.com)
