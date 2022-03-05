@@ -15,7 +15,7 @@
 - 💬  WeChat: `WX_158334860`
 
 
-- 📫  Email: [lvisei](mailto:liuvigongzuoshi@foxmail.com)
+- 📫  Ping me by [Email](mailto:liuvigongzuoshi@foxmail.com)
 <!-- - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/lvisei/vue-iview-admin-template) & [gin-admin-template](https://github.com/lvisei/gin-admin-template) -->
 
 <!--
