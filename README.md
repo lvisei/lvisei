@@ -3,7 +3,7 @@
 
 
 
-### Hi there <img src="https://raw.githubusercontent.com/eryajf/eryajf/master/wave.gif" width="30px">
+### Hi there 👋
 
 
 - 🔭  I’m currently working on Geospatial Visualization
