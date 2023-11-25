@@ -12,10 +12,10 @@
 - 🌱  I’m now passionate about Graphics & Go Concurrency
 
 
-- 💬  WeChat: `WX_158334860`
+- 💬  WeChat: `lvisei`
 
 
-- 📫  Ping me by [Email](mailto:liuvigongzuoshi@foxmail.com)
+- 📫  Ping me by [Email](mailto:lvisei@outlook.com)
 <!-- - 👯  I’m looking to collaborate on [vue-iview-admin-template](https://github.com/lvisei/vue-iview-admin-template) & [gin-admin-template](https://github.com/lvisei/gin-admin-template) -->
 
 <!--
@@ -30,14 +30,20 @@
 <br>
 
 
+<a href="https://www.zhihu.com/people/liu_ph">
+  <img align="left" alt="lvisei | zhihu" width="18px" src="https://github.com/lvisei/lvisei/assets/26923747/6c2bf3e5-a255-4995-a8e6-56a8d70413d9" />
+</a>
+
+<!--
 <a href="https://juejin.im/user/1926000101565774">
   <img align="left" alt="lvisei | juejin" width="45px" src="https://s3.pstatp.com/toutiao/xitu_juejin_web/img/logo.a7995ad.svg" />
 </a>
+-->
 
 <a href="https://github.com/lvisei/blog">
   <img align="left" alt="lvisei | blog" width="100px" src="https://user-images.githubusercontent.com/26923747/96274340-f74e1280-1002-11eb-9e42-13bdc4ae1d16.png" />
   <!--
-  <img align="left" alt="lvisei | blog" width="40px" src="https://user-images.githubusercontent.com/26923747/90339043-b9436b00-e020-11ea-9135-       2992831cc4ae.png" />
+  <img align="left" alt="lvisei | blog" width="40px" src="https://user-images.githubusercontent.com/26923747/90339043-b9436b00-e020-11ea-9135-2992831cc4ae.png" />
   -->
 </a>
 
